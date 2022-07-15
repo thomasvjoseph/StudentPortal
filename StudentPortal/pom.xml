@@ -13,7 +13,7 @@
         <junit.version>4.12</junit.version>
         <servlet.version>3.1.0</servlet.version>
         <mysql.connector.version>5.1.9</mysql.connector.version>
-         <jaction.xml.version>2.9.4</jaction.xml.version>
+         <jaction.xml.version>2.12.6.1</jaction.xml.version>
     </properties>
    <dependencies>
         <!-- Junit -->
